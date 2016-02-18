@@ -1,2 +1,2 @@
-var mobile = {'processor': 'xeon'};
+var mobile = {'processor': 'xeon', 'ram': '512mb'};
 console.log(mobile);
